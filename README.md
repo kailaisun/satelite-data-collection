@@ -2,7 +2,7 @@
 
 Updating..
 
-For a given lat and long, this code can product the aligned the Singapore landuse map (worldcover dataset), the road network map (OSM), building height/presence map (Openbuilding 2.5D), and the satellite image (Googlemap).
+For a given lat and long, this code can product the aligned the Singapore landuse map ([worldcover dataset](https://esa-worldcover.org/en)), the road network map (OSM), building height/presence map ([Openbuilding 2.5D](https://sites.research.google/gr/open-buildings/temporal/)), and the satellite image (Googlemap).
 
 ## Environment
 - The code is tested on python 3.10.
