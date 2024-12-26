@@ -11,7 +11,7 @@ from Geotiff_proprocess import lonlat2xy,xy2lonlat
 from rasterio.warp import transform_bounds
 
 
-Google_API_KEY = 'AIzaSyAOdeNFb516oUkoICOEOqjSOp0sbD3cdhU'#'AIzaSyDYA7azvJSSesYlCx7HuvAnVvaYPDz2D1I' # 'AIzaSyBECl9PSOPQsyNqKR9mpjaFwLQw6pDBQtg'
+Google_API_KEY = ''
 
 lon=103.97872924804688
 lat=1.3882613597360804
