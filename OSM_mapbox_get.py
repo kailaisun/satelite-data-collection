@@ -5,7 +5,7 @@ from PIL import Image
 from io import BytesIO
 import math
 
-ACCESS_TOKEN = 'pk.eyJ1Ijoic2tsMjQiLCJhIjoiY200dG52aHhpMGR3OTJscHpnNGZmNXUzcSJ9.FYfifWLHrCT-Ao2UunqhBw'
+ACCESS_TOKEN = ''
 
 
 
