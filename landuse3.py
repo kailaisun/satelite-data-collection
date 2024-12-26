@@ -17,9 +17,7 @@ latitude = 1.3882613597360804
 longitude = 103.97872924804688
 zoom_level = 18
 
-# map_size = "512x512"  # Google Maps 静态图尺寸
-# api_key = "AIzaSyAOdeNFb516oUkoICOEOqjSOp0sbD3cdhU"  # 替换为您的 Google Maps API 密钥
-#
+
 # # Step 1: 构建 Google Static Maps API URL
 # google_maps_url = f"https://maps.googleapis.com/maps/api/staticmap?center={latitude},{longitude}&zoom={zoom_level}&size={map_size}&maptype=satellite&key={api_key}"
 
