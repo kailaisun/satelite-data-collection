@@ -120,7 +120,7 @@ def get_bounding_box(lat, lon, zoom, size=512):
 
 # import os
 
-# API_KEY = 'AIzaSyAOdeNFb516oUkoICOEOqjSOp0sbD3cdhU'#'AIzaSyDYA7azvJSSesYlCx7HuvAnVvaYPDz2D1I' # 'AIzaSyBECl9PSOPQsyNqKR9mpjaFwLQw6pDBQtg'
+# API_KEY = '
 #
 # download_and_crop_static_map(API_KEY, 1.3882613597360804,103.97872924804688,18,'./Sinagpore/18_103.97735595703125_1.3896342476555235.png')
 #
