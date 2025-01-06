@@ -10,11 +10,11 @@ from matplotlib.colors import ListedColormap
 from OSM_google_get import get_bounding_box
 import requests
 # 定义文件路径
-raster_path = "landuse-singapore.tif"  # 替换为您的 ESA WorldCover 数据文件路径
+raster_path = "/Users/wangzhuoyulucas/Library/Mobile Documents/com~apple~CloudDocs/SMART/images/landuse-singapore.tif"  # 替换为您的 ESA WorldCover 数据文件路径
 
 # 定义感兴趣区域 (Bounding Box)
-latitude = 1.3882613597360804
-longitude = 103.97872924804688
+latitude = 35.453505 
+longitude = -97.542685
 zoom_level = 18
 
 
